@@ -157,8 +157,7 @@ AI helps in:
 
 ---
 
-## **Slide 10 — Fraction Conversion**
-7/8 = **87.5%**
+## **Slide 10 — Ingore**
 
 ---
 
