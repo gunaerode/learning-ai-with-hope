@@ -3,7 +3,7 @@
 ## ✅ 1. Download Anaconda
 Go to the official download page:
 
-👉 https://www.anaconda.com/download
+👉 https://www.anaconda.com/download/success
 
 - Choose **Windows**
 - Select the **64-bit Installer**
