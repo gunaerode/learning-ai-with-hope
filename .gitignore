@@ -13,6 +13,7 @@ dist/
 # Jupyter / Data Science
 ##################################
 .ipynb_checkpoints/
+anaconda_projects/
 
 ##################################
 # Virtual Environments
